@@ -12,13 +12,13 @@ Create a web site that provides users the ability to review and vote on various 
 
 # Setup
 
-You will receive two invitations to Gitlab.com. The first is to the [dotnet_code_challenge](https://gitlab.com/disney-studio/dotnet_code_challenge). The second is to your own private repository. 
+You will receive two invitations to Gitlab.com. The first is to the [dotnet_code_challenge](https://gitlab.com/disney-globant/dotnet_code_challenge). The second is to your own private repository. 
 
 Please follow these steps:
 
-1. Clone [dotnet_code_challenge](https://gitlab.com/disney-studio/dotnet_code_challenge) to your local workstation. 
+1. Clone [dotnet_code_challenge](https://gitlab.com/disney-globant/dotnet_code_challenge) to your local workstation. 
 2. Follow the instructions on the home page of your private repository to initialize it on your local workstation.
-3. Copy the code from the local copy of [dotnet_code_challenge](https://gitlab.com/disney-studio/dotnet_code_challenge) to initialize your private repository.
+3. Copy the code from the local copy of [dotnet_code_challenge](https://gitlab.com/disney-globant/dotnet_code_challenge) to initialize your private repository.
 4. Push the copied code to the remote of your private repository.
 5. Push your edits to your private repository as you go.
 
